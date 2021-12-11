@@ -1,1 +1,5 @@
+THE SOURCE CODE FOR THIS IS FORKED FROM ERDAVIS
 
+The original code was designed to roughly emulate runes in columns.
+My personal goal was to turn it into a more organized grid, similar to multiple writing systems of the world
+With periods and spaces between senteces. I need to make the program output 50 images in one shot for it to be considered a novel.
